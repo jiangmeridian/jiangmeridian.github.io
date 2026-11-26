@@ -1,66 +1,405 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://jiangmeridian.github.io/</loc></url>
-<url><loc>https://jiangmeridian.github.io/about.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/techniques.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/press.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knead.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/push.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/pluck.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/services.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-meridian.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-sitting.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-routine.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-first-visit.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/videos.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/faq.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/booking.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/privacy.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-meridian-history.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-four-touch.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-massage-pressure.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-palm-fingertip.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-standing-leg-foot.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-phone-breaks.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-driving-breaks.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-back-rest.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-botanical-space.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-consent-comfort.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-press-rhythm.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-knead-rhythm.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-push-direction.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-pluck-contact.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-touch-preferences.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-head-rest.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-shoulder-work-rest.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-back-contact.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-arm-hand-rest.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-wrist-workspace.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-hip-daily-movement.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-calf-ankle-activity.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-traditional-modern.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-touch-culture-rhythm.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-meridian-vocabulary.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-eastern-living-aesthetics.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-foot-care-shoes.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-desk-breaks.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-housework-rest.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-reading-rest.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-daily-carrying.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-commuting-walk.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-workday-restday.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-quiet-evening.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-fragrance-families.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-fragrance-preferences.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-fragrance-ventilation.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-fragrance-product-labels.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-fragrance-free-space.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-regular-daily-rhythm.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-balanced-meals.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-daily-walking-time.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-quiet-rest-corner.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-personal-rest-preferences.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-nonmedical-service-boundaries.html</loc></url>
-<url><loc>https://jiangmeridian.github.io/knowledge-booking-confirmation.html</loc></url>
+<?xml version='1.0' encoding='utf-8'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://jiangmeridian.github.io/</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/hero.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/press.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/knead.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/push.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/pluck.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/about.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/portrait.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/techniques.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/press.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/knead.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/push.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/pluck.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/press.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/press.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knead.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/knead.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/push.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/push.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/pluck.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/pluck.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/services.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/push.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-03.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-meridian.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-01.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-sitting.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-02.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-routine.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-03.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-first-visit.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-04.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/videos.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/hero.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/press.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/knead.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/push.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/pluck.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/faq.html</loc>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/booking.html</loc>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/privacy.html</loc>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-meridian-history.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-05.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-four-touch.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-06.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-massage-pressure.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-07.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-palm-fingertip.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-08.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-standing-leg-foot.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-09.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-phone-breaks.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-10.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-driving-breaks.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-11.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-back-rest.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-12.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-botanical-space.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-13.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-consent-comfort.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-14.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-press-rhythm.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-15.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-knead-rhythm.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-16.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-push-direction.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-17.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-pluck-contact.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-18.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-touch-preferences.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-19.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-head-rest.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-20.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-shoulder-work-rest.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-21.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-back-contact.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-22.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-arm-hand-rest.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-23.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-wrist-workspace.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-24.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-hip-daily-movement.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-25.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-calf-ankle-activity.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-26.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-traditional-modern.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-27.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-touch-culture-rhythm.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-28.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-meridian-vocabulary.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-29.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-eastern-living-aesthetics.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-30.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-foot-care-shoes.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-31.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-desk-breaks.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-32.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-housework-rest.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-33.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-reading-rest.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-34.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-daily-carrying.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-35.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-commuting-walk.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-36.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-workday-restday.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-37.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-quiet-evening.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-38.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-fragrance-families.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-39.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-fragrance-preferences.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-40.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-fragrance-ventilation.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-41.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-fragrance-product-labels.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-42.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-fragrance-free-space.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-43.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-regular-daily-rhythm.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-44.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-balanced-meals.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-45.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-daily-walking-time.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-46.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-quiet-rest-corner.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-47.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-personal-rest-preferences.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-48.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-nonmedical-service-boundaries.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-49.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jiangmeridian.github.io/knowledge-booking-confirmation.html</loc>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/journal/cover-50.jpg</image:loc>
+    </image:image>
+  </url>
 </urlset>
