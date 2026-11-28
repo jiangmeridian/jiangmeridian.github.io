@@ -1,2 +1,2 @@
-// 江老師提供個人 LINE 加好友連結後，填入 https://line.me/ti/p/... 或 https://lin.ee/... 。
-window.JIANG_SITE = { lineUrl: "" };
+// LINE 電話搜尋已確認；取得本人提供的直接加好友網址後再填 lineUrl。
+window.JIANG_SITE = { linePhone: "0912202025", lineUrl: "" };

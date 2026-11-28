@@ -44,11 +44,29 @@
     <image:image>
       <image:loc>https://jiangmeridian.github.io/assets/press.webp</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/knead.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/push.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/pluck.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://jiangmeridian.github.io/knead.html</loc>
     <image:image>
       <image:loc>https://jiangmeridian.github.io/assets/knead.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/press.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/push.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/pluck.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -56,11 +74,29 @@
     <image:image>
       <image:loc>https://jiangmeridian.github.io/assets/push.webp</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/press.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/knead.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/pluck.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://jiangmeridian.github.io/pluck.html</loc>
     <image:image>
       <image:loc>https://jiangmeridian.github.io/assets/pluck.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/press.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/knead.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jiangmeridian.github.io/assets/push.webp</image:loc>
     </image:image>
   </url>
   <url>
